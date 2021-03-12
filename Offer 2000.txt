@@ -36,6 +36,8 @@ body, html {
   background-color: #13AA16;
   text-align: center;
     cursor: pointer;
+    font-size: 22px;
+    
 }
 
 .hero-text button:hover {
@@ -49,13 +51,13 @@ body, html {
 <div class="hero-image">
   <div class="hero-text">
     <h1 style="font-size:50px">Contratulations!</h1>
-    <p>You have won Scholarship of</p>
-    <h1>Rs 2,000/-</h1>
-    <p>to claim contact within 15 days 
-    <p> or <p>
-    <p>WhatsApp or Call on</p>
-   <p><a href="https://api.whatsapp.com/send?phone=918171491310&text=Hi,%20I%20have%20claim%20to%202,000/-%20offer"><button class="button">WhatsApp</button></a><p>
-   <a href="tel:8171491210"><button class="button">Call us Now</button></a>	
+    <h3>You have won Scholarship of</h3>
+    <h1 style="font-size:80px"> &#x20b9; 2,000/-</h1>
+    <p style="font-size:22px">to claim contact within 15 days or WhatsApp or Call Now </p>
+   
+   
+   <p><a href="https://api.whatsapp.com/send?phone=918171491310&text=Hi,%20I%20want%20to%20register%20for%20?%202,000/-%20scholarship"><button class="button">WhatsApp to: 81714 91310</button></a><p>
+ <a href="tel:8171491310"><button class="button">Call on: 81714 91310</button></a>	
   </div>
 
 </div>
